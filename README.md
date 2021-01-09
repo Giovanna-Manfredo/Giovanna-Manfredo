@@ -5,6 +5,5 @@
 - 🥅 Metas de 2020: Fazer parte de bons projetos e desenvolver minhas habilidades.
 - ⚡ Fato divertido: Amo Filmes, Livros e o Espaço. No tempo livre gosto de desenhar. 
 
-### Conecte-se a mim:
-![](https://www.instagram.com/manfredine_/)
+
 
