@@ -9,5 +9,34 @@
 - 🥅 Metas de 2021: Fazer parte de bons projetos e desenvolver minhas habilidades.
 
 
+Linguagens e ferramentas:
+Visual Studio Code
+
+HTML5
+
+Kotlin
+
+CSS3
+
+JavaScript
+
+React
+
+Node.js
+
+PHP
+
+Python
+
+SQL
+
+MySQL
+
+Git
+
+GitHub
+
+Terminal
+
 
 
