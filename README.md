@@ -1,7 +1,7 @@
 # Giovanna Manfredo
 ### Olá Mundo! 👋
 
-## Sou comprometida nos projetos ao qual me envolvo e sempre estou em busca de aumentar meus conhecimentos
+#### Apaixonada por tecnologia e solucionar problemas, sou comprometida nos trabalhos a qual me envolvo
 
 
 - 🎓  Formada como técnico em informática pelo Etec - Centro Paulo Sousa
