@@ -1,15 +1,15 @@
 # Giovanna Manfredo
 ### Olá Mundo! 👋
 
-#### Sou comprometida nos projetos ao qual me envolvo e sempre estou em busca de aumentar meus conhecimentos
+## Sou comprometida nos projetos ao qual me envolvo e sempre estou em busca de aumentar meus conhecimentos
 
-### Formada pelo Centro Paulo Souza em técnico em informatica
 
+- 🎓  Formada como técnico em informática pelo Etec - Centro Paulo Sousa
 - 🌱 Atualmente, estou aprendendo sobre Metodologias Ageis, React Native e JS.
-- 🥅 Metas de 2021: Fazer parte de bons projetos e desenvolver minhas habilidades.
+- 🥅 Metas de 2021: Fazer parte de bons projetos open sorce e desenvolver minhas habilidades.
 
 
-Linguagens e ferramentas:
+## Linguagens e ferramentas:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
